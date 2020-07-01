@@ -43,7 +43,7 @@
         <commons-collection.vsersion>3.2.1</commons-collection.vsersion>
         <commons-fileupload.version>1.3</commons-fileupload.version>
         <commons-io.version>2.2</commons-io.version>
-        <mysql-connector-java.version>5.1.8</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <junit.version>4.11</junit.version>
         <servlet.version>2.5</servlet.version>
 
